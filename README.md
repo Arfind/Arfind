@@ -6,7 +6,7 @@ I'm **Arfind**, A cybersecurity worker and **RT** engineer <svg t="1713030766626
   <tr>
     <td align="center" width="200">
       <a href="https://go.dev/">
-        <img src="	https://go.dev/images/gophers/biplane.svg" width="60" />
+        <img src="https://go.dev/images/gophers/biplane.svg" width="60" />
         <br />
         golang
       </a>
