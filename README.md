@@ -43,7 +43,7 @@ I'm **Arfind**, A cybersecurity worker and **RT** engineer <svg t="1713030766626
     </td>
     <td align="center" width="200">
       <a href="https://github.com/jenkinsci/docker">
-        <img src="https://d33wubrfki0l68.cloudfront.net/e7a6759eb6232b4280b83b18aa255289d65e4b6e/7698a/images/logo.webp" width="160" />
+        <img src="[https://d33wubrfki0l68.cloudfront.net/e7a6759eb6232b4280b83b18aa255289d65e4b6e/7698a/images/logo.webp](https://cdn.worldvectorlogo.com/logos/docker.svg)" width="160" />
         <br />
         Docker
       </a>
