@@ -29,7 +29,7 @@ I'm **Arfind**, A cybersecurity worker and **RT** engineer <svg t="1713030766626
   <tr>
     <td align="center" width="200">
       <a href="https://www.tensorflow.org/">
-        <img src="https://www.gstatic.com/devrel-devsite/prod/v66c4dc9b65fea2172a0927d7be81b5b5d946ea60fc02578dd7c264b2c2852152/tensorflow/images/lockup.svg" width="160" />
+        <img src="[https://www.gstatic.com/devrel-devsite/prod/v66c4dc9b65fea2172a0927d7be81b5b5d946ea60fc02578dd7c264b2c2852152/tensorflow/images/lockup.svg](https://www.gstatic.com/devrel-devsite/prod/vd31e3ed8994e05c7f2cd0cf68a402ca7902bb92b6ec0977d7ef2a1c699fae3f9/tensorflow/images/lockup.svg)" width="160" />
         <br />
         Tensorflow
       </a>
